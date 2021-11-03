@@ -1,1 +1,3 @@
-# MaxWorkshop_VCU_Nov_2021
+# Max Workshop @ VCU (Nov 2021)
+
+Exercise, code, and media (video/sound) for workshop
